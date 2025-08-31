@@ -1,0 +1,12 @@
+body {
+  font-family : Tahoma , Sans-Serif ;
+}
+
+.list-group-item span {
+  cursor : pointer ;
+}
+
+.completed {
+  text-decoration : line-through ;
+  color : gray ;
+}
